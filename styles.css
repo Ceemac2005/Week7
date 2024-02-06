@@ -1,0 +1,15 @@
+.display-1 {
+color:rgb(4, 80, 118);
+font-weight: 400;
+}
+
+[class*="col-"] {
+  border: 1px solid rgba(231, 226, 239, 0.5);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.blue {
+  background-color: rgb(1, 95, 129);
+}
+
